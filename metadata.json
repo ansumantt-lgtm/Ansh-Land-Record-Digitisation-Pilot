@@ -1,0 +1,6 @@
+{
+  "name": "Land Acquisition File Tracking & Workflow Management System",
+  "description": "Digitize, monitor, and track the complete lifecycle of land acquisition files across multiple government departments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
